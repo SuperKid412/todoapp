@@ -1,6 +1,6 @@
 # todo-app
 # Hello
-# Ứng dụng Todo app đơn giản, có thêm 1 xíu hiệu ứng siu cute..
+# Ứng dụng Todo đơn giản, có thêm 1 xíu hiệu ứng siu cute..
 ## Project setup
 ```
 npm install
