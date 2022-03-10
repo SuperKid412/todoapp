@@ -1,25 +1,31 @@
-# todo-app
-# Hello
-# Ứng dụng Todo đơn giản, có thêm 1 xíu hiệu ứng siu cute..
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Music player
 
-### Compiles and minifies for production
-```
-npm run build
-```
+To-do App
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Authors
+
+- [@anhkiet75](https://github.com/anhkiet75)
+
+
+## 🔗 Links
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kiet.tien68)
+
+
+
+## 🛠 Skills
+VueJS
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on HTML, CSS and Javascript
+
+
+## 🚀 About Me
+I'm a Web developer
+
+
+## Demo
+
+[Click here](https://blissful-pasteur-e7b4b9.netlify.app)
