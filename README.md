@@ -1,7 +1,5 @@
 
-# Music player
-
-To-do App
+# To-do App
 
 
 ## Authors
